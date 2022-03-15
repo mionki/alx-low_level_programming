@@ -3,6 +3,8 @@
 /**
  *print_alpahabet- prints the alphabets in lowercase
  */
+int main(void)
+{	
 void print_alphabet(void)
 {
 	char al;
@@ -17,3 +19,5 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }	
+return (0);
+}
