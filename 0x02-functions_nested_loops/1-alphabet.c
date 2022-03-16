@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- *print_alpahabet- prints the alphabets in lowercase
+ *main- contains print_alpahabet that prints the alphabets in lowercase
+ *return: Value is 0 when program successful
  */
 int main(void)
 {	
