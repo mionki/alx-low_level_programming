@@ -3,6 +3,7 @@
 /**
  *print_to_98 - prints all natural numbers from n input to 98
  */
+void print_to_98(int n)
 {
 	if (n >= 98)
 	{
