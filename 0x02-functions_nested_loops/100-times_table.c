@@ -2,7 +2,7 @@
 /**
  *print_times_table - Prints the times table of the input,
  */
-oid print_times_table(int n)
+void print_times_table(int n)
 {
 	int num, mult, prod;
 
