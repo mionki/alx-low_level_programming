@@ -1,3 +1,5 @@
+#include"main.h"
+
 /**
  *print_last_digit - prints the digit of a number
  *Return: returns value of the last digit
