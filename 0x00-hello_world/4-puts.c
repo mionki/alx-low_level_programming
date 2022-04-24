@@ -1,13 +1,12 @@
 #include <stdio.h>
 /*
- *main-A c program to print a string
+ *main - prints a string
  *@str1: the string variable
- *Return - returns 0 on error
+ *Return:  returns 0 on success
  */
 int main(void)
 {
 	char str1[] = "\"Programming is like building a multilingual puzzle";
-  puts(str1);
-  return 0;
+puts(str1);
+return (0);
 } 
-
