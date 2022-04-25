@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - adds integers multiples of 3 
+ * main - adds integers multiples of 3
  * and 5 less than 1024
  * Return: returns (0) on success
  */
 int main(void)
 {
-    unsigned long int m, n, sum;
+unsigned long int m, n, sum;
 	int i;
 
 	m = 0;
@@ -26,5 +26,5 @@ int main(void)
 	}
 	sum = m + n;
 	printf("%lu\n", sum);
-    return (0);
+return (0);
 }
