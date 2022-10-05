@@ -1,4 +1,4 @@
-//A function that searches for a value in an array of integers
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
