@@ -7,9 +7,9 @@
 /**
  * linear_search - searches for a value in an array with linear search algo
  * 
- * @param array: pointer to the first element of the array 
- * @param size : number of elements in the array
- * @param value : value to search
+ * array: pointer to the first element of the array 
+ * size : number of elements in the array
+ *value : value to search
  * 
  * Return: return index of the value in the array or -1. 
  */
